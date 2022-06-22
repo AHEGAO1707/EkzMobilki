@@ -1,0 +1,15 @@
+C:\Users\Егор\source\repos\EkzMobilki\EkzMobilki\bin\Debug\EkzMobilki.exe.config
+C:\Users\Егор\source\repos\EkzMobilki\EkzMobilki\bin\Debug\EkzMobilki.exe
+C:\Users\Егор\source\repos\EkzMobilki\EkzMobilki\bin\Debug\EkzMobilki.pdb
+C:\Users\Егор\source\repos\EkzMobilki\EkzMobilki\obj\Debug\EkzMobilki.csprojAssemblyReference.cache
+C:\Users\Егор\source\repos\EkzMobilki\EkzMobilki\obj\Debug\MainWindow.g.cs
+C:\Users\Егор\source\repos\EkzMobilki\EkzMobilki\obj\Debug\App.g.cs
+C:\Users\Егор\source\repos\EkzMobilki\EkzMobilki\obj\Debug\EkzMobilki_MarkupCompile.cache
+C:\Users\Егор\source\repos\EkzMobilki\EkzMobilki\obj\Debug\EkzMobilki_MarkupCompile.lref
+C:\Users\Егор\source\repos\EkzMobilki\EkzMobilki\obj\Debug\MainWindow.baml
+C:\Users\Егор\source\repos\EkzMobilki\EkzMobilki\obj\Debug\EkzMobilki.g.resources
+C:\Users\Егор\source\repos\EkzMobilki\EkzMobilki\obj\Debug\EkzMobilki.Properties.Resources.resources
+C:\Users\Егор\source\repos\EkzMobilki\EkzMobilki\obj\Debug\EkzMobilki.csproj.GenerateResource.cache
+C:\Users\Егор\source\repos\EkzMobilki\EkzMobilki\obj\Debug\EkzMobilki.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\EkzMobilki\EkzMobilki\obj\Debug\EkzMobilki.exe
+C:\Users\Егор\source\repos\EkzMobilki\EkzMobilki\obj\Debug\EkzMobilki.pdb
